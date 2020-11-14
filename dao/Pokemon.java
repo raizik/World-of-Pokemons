@@ -1,4 +1,3 @@
-package com.plainid.assignment.dao;
 
 /**
  * Pokémon are creatures of all shapes and sizes who live in the wild or alongside humans.
