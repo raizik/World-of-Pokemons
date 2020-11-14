@@ -1,3 +1,5 @@
+package com.plainid.assignment.dao;
+
 import java.util.List;
 public interface Dao<T, R, K, L> {
 
